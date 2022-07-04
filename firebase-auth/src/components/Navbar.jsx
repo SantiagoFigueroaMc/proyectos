@@ -14,7 +14,7 @@ function Navbar() {
   }
 
   return (
-    <div className='flex justify-between bg-gray-200 w-full max-w-[2048px] p-4  '>
+    <div className='flex justify-between bg-gray-200 w-full max-w-[2048px] p-4'>
         <h1 className='text-center text-2xl font-bold'>
             <Link to='/'>Firebase auth project</Link>
         </h1>
